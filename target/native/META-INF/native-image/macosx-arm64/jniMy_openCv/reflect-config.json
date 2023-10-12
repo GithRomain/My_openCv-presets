@@ -1,0 +1,97 @@
+[
+  {
+    "name" : "org.bytedeco.My_openCv.My_openCv"
+  },
+  {
+    "name" : "org.bytedeco.My_openCv.presets.My_openCv"
+  },
+  {
+    "name" : "org.bytedeco.My_openCv.global.My_openCv"
+  },
+  {
+    "name" : "org.bytedeco.javacpp.Pointer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "java.lang.String",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "org.bytedeco.javacpp.Pointer$NativeDeallocator",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "org.bytedeco.javacpp.Loader",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "java.nio.Buffer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "java.lang.Object",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "java.nio.charset.Charset",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "java.lang.RuntimeException"
+  },
+  {
+    "name" : "java.lang.NullPointerException"
+  },
+  {
+    "name" : "org.bytedeco.opencv.opencv_core.Mat"
+  }
+]

@@ -1,0 +1,59 @@
+-J-Xmx4096m
+-J-Xms256m
+@options
+@packages
+-classpath
+'/Users/romainpasquier/.m2/repository/org/bytedeco/opencv/4.7.0-1.5.9/opencv-4.7.0-1.5.9.jar:/Users/romainpasquier/.m2/repository/org/bytedeco/openblas/0.3.23-1.5.9/openblas-0.3.23-1.5.9.jar:/Users/romainpasquier/.m2/repository/org/bytedeco/javacpp/1.5.9/javacpp-1.5.9.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'8'
+-sourcepath
+'/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/src/main/java:/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/src/gen/java:/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'JavaCPP Presets for My_openCv 1.0-1.5.9 API'
+-link
+'http://bytedeco.org/javacpp/apidocs'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'JavaCPP Presets for My_openCv 1.0-1.5.9 API'
+org.bytedeco.My_openCv
+/Users/romainpasquier/.m2/repository/org/bytedeco/opencv/4.7.0-1.5.9/opencv-4.7.0-1.5.9.jar = 1696980168487
+/Users/romainpasquier/.m2/repository/org/bytedeco/openblas/0.3.23-1.5.9/openblas-0.3.23-1.5.9.jar = 1696980166945
+/Users/romainpasquier/.m2/repository/org/bytedeco/javacpp/1.5.9/javacpp-1.5.9.jar = 1696980162774
+/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/src/main/java = 1696979067248
+/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/src/gen/java = 1696979067245
+/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/generated-sources/annotations = 1697111238208
+/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/apidocs/tag-search-index.js = 1697111256186
+/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/apidocs/overview-tree.html = 1697111256178
+/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/apidocs/module-search-index.js = 1697111256185
+/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/apidocs/index.html = 1697111256191
+/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/apidocs/package-search-index.js = 1697111256185
+/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/apidocs/link.svg = 1697111256198
+/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/apidocs/index-all.html = 1697111256189
+/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/apidocs/allpackages-index.html = 1697111256185
+/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/apidocs/member-search-index.js = 1697111256185
+/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/apidocs/copy.svg = 1697111256198
+/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/apidocs/script.js = 1697111256198
+/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/apidocs/stylesheet.css = 1697111256197
+/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/apidocs/search-page.js = 1697111256200
+/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/apidocs/help-doc.html = 1697111256196
+/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/apidocs/element-list = 1697111256161
+/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/apidocs/search.html = 1697111256190
+/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/apidocs/allclasses-index.html = 1697111256184
+/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/apidocs/type-search-index.js = 1697111256185
+/Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/target/apidocs/search.js = 1697111256199

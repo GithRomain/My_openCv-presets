@@ -1,0 +1,1 @@
+cp -r /Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/macosx-arm64 /Users/romainpasquier/Dev/work/myOpenCv/javacpp-presets/My_openCv/cppbuild
